@@ -1,0 +1,12 @@
+(2-27-2014)
+
+// Current code needs to be better organized and modularized. map.js and the three battle system related .js files.
+
+// Need new .js file for NPCs and Events
+
+// Need an NPC object prototype that will contain information about NPCs that the player can interact with. A new field in the maptile prototype will be needed that indicates which, if any, npcs are present (should be done with enumeration)
+
+// Art needs implementation. Current build can be considered an alpha, very playable
+
+	
+

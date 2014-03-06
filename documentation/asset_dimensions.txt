@@ -1,0 +1,4 @@
+monster art: 80px-120px both dimensions - there is some flexibility here as long as the image background is transparent
+background art: strictly 382px X 293px 
+
+map tile art: 21x21
